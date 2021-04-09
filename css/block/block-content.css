@@ -1,0 +1,18 @@
+.content-block-1 
+{
+    width: 620px;
+    height: 100%;
+    background-color: blue;
+}
+
+.content-block-1 .title 
+{
+    font-size: 24px;
+}
+.content-block-1 .sub-title p
+{
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 0;
+    padding: 0;
+}

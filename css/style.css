@@ -1,5 +1,7 @@
 @import "block/menu.css";
 @import "block/main-container.css";
+@import "block/block-content.css";
+@import "block/card.css";
 body,html 
 {
     margin: 0;
