@@ -1,4 +1,5 @@
 @import "block/menu.css";
+@import "block/main-container.css";
 body,html 
 {
     margin: 0;
