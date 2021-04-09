@@ -8,3 +8,15 @@
     z-index: 999;
     background-color: #1A1A1A;
 }
+
+.dashboard .container-menu
+{
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+
+.dashboard .container-menu .logo 
+{
+    
+}
