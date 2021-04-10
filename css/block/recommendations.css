@@ -22,7 +22,7 @@
 .recommendations .rec-container .block-1 
 {
     width: 190px;
-    height: 190px;
+    height: 150px;
     background-color: #242731;
     border-radius: 25px;
     cursor: pointer;
@@ -60,7 +60,7 @@
     font-size: 12px;
     color: #808191;
     margin-left: 1rem;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
    
 }
 
