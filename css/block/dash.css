@@ -2,7 +2,7 @@
 {
     width: 445px;
     height: 180px;
-    margin-top: 3rem;
+    margin-top: 1rem;
     display: flex;
 }
 
@@ -13,3 +13,8 @@
     font-weight: bold;
 }
 
+.dash-container .dash-content svg 
+{
+    height: 126px;
+    width: 250px;
+}
