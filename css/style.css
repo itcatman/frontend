@@ -4,6 +4,7 @@
 @import "block/card.css";
 @import "block/recommendations.css";
 @import "block/dash.css";
+@import "block/course.css";
 body,html 
 {
     margin: 0;
