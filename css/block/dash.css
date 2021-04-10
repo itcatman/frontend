@@ -1,13 +1,20 @@
-.dashbar-container 
+.dash-container 
 {
     width: 445px;
     height: 180px;
-    margin-top: 3rem;
+    margin-top: 1rem;
+    display: flex;
 }
 
-.dashbar-container .dash-content .title-dash
+.dash-container .dash-content .title-dash
 {
+    margin-right: auto;
     font-size: 22px;
     font-weight: bold;
 }
 
+.dash-container .dash-content svg 
+{
+    height: 126px;
+    width: 250px;
+}
