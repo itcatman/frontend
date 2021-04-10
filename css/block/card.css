@@ -4,7 +4,7 @@
     
     width: 620px;
     margin-left: 2rem;
-    height: 400px;
+    height: 350px;
     
     border-radius: 25px;
     margin-top: 1rem;
@@ -37,7 +37,7 @@
 {
     width: 100%;
     height: 100%;
-    display: flex;
+    
     flex-wrap: wrap;
     overflow: hidden;
     position: relative;
@@ -46,14 +46,20 @@
     z-index: 999;
     
 }
-
+.card-contain .card-content  .card-item 
+{
+    display: flex;
+}
 .card-contain .card-content  .card-block 
 {
-    width: 100%;
+    min-width: 100%;
     height: 80%;
     display: flex;
     
+    
 }
+
+
 
 .card-contain .card-content  .card-block .card-text .text-1 
 {
@@ -84,27 +90,9 @@
     border-radius: 15px;
     
 }
-.card-contain .card-content .card-output 
-{
-    width: 100%;
-   
-    display: flex;
-    justify-content: flex-end;
-    padding-right: 10rem;
-}
 
-.card-contain .card-content .card-output .container-output .circle
+.card-contain .card-content  .card-block .card-text a:hover 
 {
-    width: 1px;
-    padding: 2px;
-    height: 2px;
-    background-color: white;
-    border-radius: 50%;
-    border: none;
-    margin: 0 7px;
-}
-
-.card-contain .card-content .card-output .circle.active 
-{
-    padding: 3px;
+    font-size: 16px;
+    background-color: #86157d;
 }

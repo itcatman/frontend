@@ -2,6 +2,7 @@
 @import "block/main-container.css";
 @import "block/block-content.css";
 @import "block/card.css";
+@import "block/recommendations.css";
 body,html 
 {
     margin: 0;
