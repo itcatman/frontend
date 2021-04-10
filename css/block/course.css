@@ -12,14 +12,14 @@
     align-items: center;
 }
 
-.course-container .course-content .c1 
+.course-container .course-ul:nth-child(1) 
 {
     display: block;
 }
-.course-container .course-content .c2{ display: none;}
-.course-container .course-content .c3{ display: none;}
-.course-container .course-content .c4{ display: none;}
-.course-container .course-content .c5{ display: none;}
+.course-container .course-ul:nth-child(2){ display: none !important;}
+.course-container .course-ul:nth-child(3){ display: none !important;}
+.course-container .course-ul:nth-child(4){ display: none !important;}
+.course-container .course-ul:nth-child(5){ display: none !important;}
 
 
 
