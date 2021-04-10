@@ -80,7 +80,7 @@
     font-weight: lighter;
     font-family: 'Inter', sans-serif;
     margin: 0;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
 }
 
 .card-contain .card-content  .card-block .card-text a
@@ -98,6 +98,7 @@
 
 .card-contain .card-content  .card-block .card-text a:hover 
 {
-    font-size: 16px;
+    
+    padding: 16px 40px;
     background-color: #454a5a;
 }
