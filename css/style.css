@@ -31,7 +31,14 @@ body
     justify-content: space-between;
 }
 
+.cource-ul.active 
+{
+    display: block !important;
+}
+
+
 /* 
 font-family: 'Inter', sans-serif;
 font-family: 'Poppins', sans-serif; 
 */
+
