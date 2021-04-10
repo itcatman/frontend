@@ -1,0 +1,22 @@
+.course-content{
+    display: flex;
+    align-items: center;
+}
+.lesson{
+    width: auto;
+    height: 30px;
+}
+.course-ull{
+    list-style-type: none;
+}
+.course-li{
+    width: 444px;
+    margin: 1rem 0;
+    border-radius: 24px;
+    background: #242731;
+    padding: 25px 0;
+}
+.course-li::before{
+    content: '';
+    background-image: url(../../img/icon/1-course.svg);
+}
