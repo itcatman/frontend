@@ -6,6 +6,7 @@
 @import "block/dash.css";
 @import "block/course.css";
 @import "block/achivments.css";
+@import "block/media.css";
 body,html 
 {
     margin: 0;
