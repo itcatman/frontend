@@ -1,0 +1,12 @@
+.dashbar-container 
+{
+    width: 445px;
+    height: 180px;
+    margin-top: 3rem;
+}
+
+.dashbar-container .dash-content .title-dash
+{
+    font-size: 22px;
+    font-weight: bold;
+}
