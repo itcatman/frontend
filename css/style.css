@@ -5,6 +5,7 @@
 @import "block/recommendations.css";
 @import "block/dash.css";
 @import "block/course.css";
+@import "block/achivments.css";
 body,html 
 {
     margin: 0;
