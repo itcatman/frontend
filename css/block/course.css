@@ -46,6 +46,9 @@
     margin: 5px 0;
     background-color: #242731;
 }
+.course-li:hover{
+
+}
 
 .course-container  ul li svg 
 {
