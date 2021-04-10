@@ -39,3 +39,9 @@ margin-right: 44px;
     padding: 0;
     
 }
+.card-course-container{
+    font-family: Inter;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15em ;
+}

@@ -3,6 +3,7 @@
 @import "block/block-content.css";
 @import "block/card.css";
 @import "block/recommendations.css";
+@import "block/course.css";
 body,html 
 {
     margin: 0;

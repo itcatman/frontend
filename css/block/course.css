@@ -1,0 +1,8 @@
+.course-content{
+    display: flex;
+    align-items: center;
+}
+.lesson{
+    width: auto;
+    height: 30px;
+}
