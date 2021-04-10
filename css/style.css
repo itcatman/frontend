@@ -3,7 +3,11 @@
 @import "block/block-content.css";
 @import "block/card.css";
 @import "block/recommendations.css";
+<<<<<<< HEAD
 @import "block/course.css";
+=======
+@import "block/dash.css";
+>>>>>>> 0aeeb03c02c593a86df92f4017638af11e3dd516
 body,html 
 {
     margin: 0;
@@ -19,7 +23,16 @@ body
 }
 
 
-
+.card-course-container 
+{
+    display: flex;
+    justify-content: space-between;
+}
+.rec-dash-container 
+{
+    display: flex;
+    justify-content: space-between;
+}
 
 /* 
 font-family: 'Inter', sans-serif;
