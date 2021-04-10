@@ -65,20 +65,23 @@
 .dashboard .container-menu .block-link .links:hover a 
 {
     color: white;
+    
 }
 .dashboard .container-menu .block-link .links .c1
 {
-    filter: brightness(0.5);
+    filter:drop-shadow(2px 4px 1px black) brightness(0.5);
+   
 } 
 .dashboard .container-menu .block-link .links:hover img 
 {
-    filter: brightness(2);
+    filter: drop-shadow(2px 4px 1px black) brightness(2);
+    
 }
 .dashboard .container-menu .block-link .links a img 
 {
     transition: all .3s ease-in-out;
     margin-right: 10px;
-    
+    filter: drop-shadow(2px 4px 1px black);
     width: 22px;
 }
 
@@ -89,6 +92,7 @@
     font-weight: bold;
     font-family: 'Inter', sans-serif;
     color: gray;
+    text-shadow: 4px 4px 6px black;
     text-decoration: none;
     transition: all .3s ease-in-out;
     display: flex;
