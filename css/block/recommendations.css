@@ -16,7 +16,7 @@
 {
     width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .recommendations .rec-container .block-1 
@@ -67,7 +67,7 @@
 {
     display: flex;
     position: relative;
-    margin-left: 1rem;пше 
+    margin-left: 1rem;
     margin-bottom: 1rem;
     margin-top: 5px;
 }
