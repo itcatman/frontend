@@ -37,7 +37,9 @@
 
 .course-container  ul li 
 {
-    padding: 1.5rem 3rem;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 3rem;
     border-radius: 15px;
     margin: 5px 0;
     background-color: #242731;
