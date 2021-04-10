@@ -63,7 +63,7 @@
 
 .card-contain .card-content  .card-block .card-text .text-1 
 {
-    width: 80%;
+    width: 100%;
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 0;
@@ -94,5 +94,5 @@
 .card-contain .card-content  .card-block .card-text a:hover 
 {
     font-size: 16px;
-    background-color: #86157d;
+    background-color: #454a5a;
 }
