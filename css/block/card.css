@@ -59,7 +59,12 @@
     
 }
 
-
+.card-contain .card-content  .card-block .card-img img 
+{
+    height: 75%;
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
 
 .card-contain .card-content  .card-block .card-text .text-1 
 {
